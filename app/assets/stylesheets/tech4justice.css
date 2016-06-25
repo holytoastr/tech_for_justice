@@ -77,7 +77,8 @@ textarea {
     margin-top: -1px;
 
     ul {
-        padding-left:10px !important;
+        padding-left:10px;
+        margin-bottom: 0;
     }
 
     ul li {
